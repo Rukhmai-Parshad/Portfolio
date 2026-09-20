@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://rukhmaiparshad.dev
+Sitemap: https://rukhmaiparshad.dev/sitemap.xml
